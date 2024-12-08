@@ -5,3 +5,13 @@ body{
 .logo{
   margin-left: 24px;
 }
+
+.title-1{
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.title-2{
+  font-weight: light;
+  font-size: 32px;
+}
