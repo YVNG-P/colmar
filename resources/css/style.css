@@ -2,6 +2,10 @@ body{
   font-family: Verdana;
 }
 
+header{
+  display: inline;
+}
+
 .logo{
   margin-left: 24px;
 }
