@@ -9,9 +9,15 @@ body{
 .title-1{
   font-weight: 5px;
   font-size: 32px;
+  display: inline;
 }
 
 .title-2{
   font-weight: 3px;
   font-size: 32px;
+  display: inline;
+}
+
+.title{
+  display: flex;
 }
